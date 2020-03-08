@@ -1,0 +1,4 @@
+<?php
+$A= Netvilox;
+Echo '$a'; 
+?>
